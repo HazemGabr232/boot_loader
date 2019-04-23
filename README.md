@@ -17,3 +17,5 @@ and to try it run the following command
 - [tuhdo/os01](https://github.com/tuhdo/os01)
 
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+
+- [os-dev](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
